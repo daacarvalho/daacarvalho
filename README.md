@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on software web development.
 
-- 🌱 I’m currently learning Spring Boot, VueJS and Ruby.
+- 🌱 I’m currently learning Java, Spring Boot, VueJS and Ruby.
 
 - 📫 How to reach me: danielfccarvalho@hotmail.com
 
